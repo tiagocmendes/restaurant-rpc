@@ -1,7 +1,7 @@
-# restaurante-drive-through-tiagocmendes
+# restaurant-rpc
 ### Distributed Systems | UA 2018/2019
 
-**Description:** Repository for implementing a drive-through restaurant using Python  
+**Description:** This repository implements a drive-through restaurant using a centralized distributed system architecture based on remote procedure calls. 
 
 * Create a virtual environment and install requirements:
 ```console
