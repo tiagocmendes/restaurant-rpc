@@ -1,0 +1,19 @@
+04-09 18:24 Client       INFO     Setup ZMQ
+04-09 18:24 Client       INFO     Client is driving around the restaurant
+04-09 18:24 Client       INFO     Client arrived at the restaurant
+04-09 18:24 Client       INFO     Request some food
+04-09 18:24 Client       INFO     Client request: ['HAMBURGUER', 'DRINK']
+04-09 18:24 Client       INFO     Order received No. f9560b79-7e6c-4190-b5d4-b543386326a9
+04-09 18:24 Client       INFO     Payment intention for order No. f9560b79-7e6c-4190-b5d4-b543386326a9
+04-09 18:24 Client       INFO     Got None
+04-09 18:24 Client       INFO     Payment intention for order No. f9560b79-7e6c-4190-b5d4-b543386326a9
+04-09 18:24 Client       INFO     Got None
+04-09 18:24 Client       INFO     Payment intention for order No. f9560b79-7e6c-4190-b5d4-b543386326a9
+04-09 18:24 Client       INFO     Got True
+04-09 18:24 Client       INFO     Payment complete for order No. f9560b79-7e6c-4190-b5d4-b543386326a9
+04-09 18:24 Client       INFO     Pickup order No. f9560b79-7e6c-4190-b5d4-b543386326a9
+04-09 18:24 Client       INFO     Got None
+04-09 18:25 Client       INFO     Pickup order No. f9560b79-7e6c-4190-b5d4-b543386326a9
+04-09 18:25 Client       INFO     Got (UUID('f9560b79-7e6c-4190-b5d4-b543386326a9'), ['DRINK', 'HAMBURGUER'])
+04-09 18:25 Client       INFO     Order No. f9560b79-7e6c-4190-b5d4-b543386326a9 received
+04-09 18:25 Client       INFO     Leaving
